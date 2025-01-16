@@ -10,7 +10,7 @@
 - I used to live in Germany 🇩🇪
 (I do not speak German) 
 - I've published a research paper in ethnic studies - [read it here](https://bit.ly/jpimmigration)
-- I'm also a professional photographer
+- I've hit the 4096 tile in 2048
 
 
 ### #30NitesOfCode:  [Check out my progress!](https://www.codedex.io/@jnlamores/30-nites-of-code)  
