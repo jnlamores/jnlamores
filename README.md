@@ -1,6 +1,5 @@
-## It's nice to meet you 💌
+## Hey I'm Janelle, it's nice to meet you 💌
 (work in progress)
-I'm Janelle ✦
 
 ### About me
 - I just graduated from UC Merced with a bachelor's in cognitive science
