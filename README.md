@@ -7,7 +7,8 @@ I'm Janelle ✦
 - Most importantly, I design
 
 ### Fun Facts
-- I've published a research paper in ethnic studies. [read it here](https://bit.ly/jpimmigration)
+- I've published a research paper in ethnic studies - [read it here](https://bit.ly/jpimmigration)
+- I'm also a photographer :>
 
 
 ### #30NitesOfCode:  [Check out my progress!](https://www.codedex.io/@jnlamores/30-nites-of-code)  
