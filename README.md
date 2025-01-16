@@ -1,5 +1,7 @@
-## It's nice to meet you. I'm Janelle ✦
-I design.
+## It's nice to meet you 💌
+I'm Janelle ✦ I design.
+
+# About me
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@jnlamores/30-nites-of-code)  
