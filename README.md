@@ -3,7 +3,7 @@ I'm Janelle ✦ I design.
 
 ### About me
 
-## #30NitesOfCode:
+### #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@jnlamores/30-nites-of-code)  
   ![@jnlamores #30NitesOfCode](https://www.codedex.io/api/petStatus?user=jnlamores)
 <!--
