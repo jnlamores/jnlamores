@@ -1,4 +1,5 @@
 ## It's nice to meet you 💌
+(work in progress)
 I'm Janelle ✦
 
 ### About me
