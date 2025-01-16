@@ -7,8 +7,9 @@ I'm Janelle ✦
 - Most importantly, I design
 
 ### Fun Facts
+- I used to live in Germany 🇩🇪
+(I do not speak German) 
 - I've published a research paper in ethnic studies - [read it here](https://bit.ly/jpimmigration)
-- I used to live in Germany (I do not speak German)
 - I'm also a professional photographer
 
 
