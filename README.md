@@ -2,7 +2,7 @@
 (work in progress)
 
 ### About me
-- I have a bachelor's in cognitive science
+- I have a bachelor's degree in cognitive science
 - I have research background in language perception and the nature of human trust in AI
 - Most importantly, I design (and I guess I code now).
 
