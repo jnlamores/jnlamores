@@ -4,7 +4,7 @@
 ### About me
 - I have a background in cognitive science
 - I have research background in language perception and the nature of human trust in AI
-- Most importantly, I design
+- Most importantly, I design (and I guess I code now).
 
 ### Fun Facts
 - I used to live in Germany 🇩🇪
