@@ -2,9 +2,9 @@
 (work in progress)
 
 ### About me
-- I have a bachelor's degree in cognitive science
-- I have research background in language perception and the nature of human trust in AI
-- Most importantly, I design (and I guess I code now).
+- Designer, cognitive scientist, and researcher
+- Research background in language perception and the nature of human trust in AI
+- Loves Tokyo Cheese Milk Factory Salt & Camembert Cookies
 
 ### Fun Facts
 - I used to live in Germany 🇩🇪
