@@ -2,15 +2,15 @@
 (work in progress)
 
 ### About me
-- Designer, cognitive scientist, and researcher
-- Research background in language perception and the nature of human trust in AI
-- Loves Tokyo Cheese Milk Factory Salt & Camembert Cookies
+- designer, cognitive scientist, and researcher
+- research background in language perception and the nature of human trust in AI
+- loves tokyo cheese milk factory salt & camembert cookies
 
 ### Fun Facts
-- I used to live in Germany 🇩🇪
+- used to live in Germany 🇩🇪
 (I do not speak German) 
-- I've published a research paper in ethnic studies - [read it here](https://bit.ly/jpimmigration)
-- I've hit the 4096 tile in 2048
+- published a research paper in ethnic studies - [read it here](https://bit.ly/jpimmigration)
+- hit the 4096 tile in 2048
 
 
 ### #30NitesOfCode:  [Check out my progress!](https://www.codedex.io/@jnlamores/30-nites-of-code)  
