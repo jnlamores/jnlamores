@@ -6,7 +6,7 @@
 - research background in language perception and the nature of human trust in AI
 - loves tokyo cheese milk factory salt & camembert cookies
 
-### Fun Facts
+### Other Fun Facts
 - used to live in Germany (I do not speak German) 🇩🇪 
 - published a research paper in ethnic studies - [read it here](https://bit.ly/jpimmigration)
 - hit the 4096 tile in 2048
