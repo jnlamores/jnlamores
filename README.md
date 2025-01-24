@@ -7,7 +7,7 @@
 - loves tokyo cheese milk factory salt & camembert cookies
 
 ### Other Fun Facts
-- used to live in Germany (I do not speak German) 🇩🇪 
+- used to live in germany (I do not speak german) 🇩🇪 
 - published a research paper in ethnic studies - [read it here](https://bit.ly/jpimmigration)
 - hit the 4096 tile in 2048
 
