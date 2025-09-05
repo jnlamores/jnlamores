@@ -11,7 +11,7 @@ Here, I tinker with a bit of code.
 
 ### Other Fun Facts
 - used to live in germany
-- published 2 research papers - [read it here][https://scholar.google.com/citations?user=CxYAHX4AAAAJ&hl=en&authuser=3]
+- published 2 research papers - [read it here](https://scholar.google.com/citations?user=CxYAHX4AAAAJ&hl=en&authuser=3)
 - hit the 4096 tile in 2048
 
 <!--
