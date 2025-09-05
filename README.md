@@ -8,7 +8,7 @@
 
 ### Other Fun Facts
 - used to live in germany (I do not speak german) 🇩🇪 
-- published a research paper in ethnic studies - [read it here](https://bit.ly/jpimmigration)
+- published 2 research papers - [read it here]([https://bit.ly/jpimmigration](https://scholar.google.com/citations?user=CxYAHX4AAAAJ&hl=en&authuser=3))
 - hit the 4096 tile in 2048
 
 <!--
