@@ -11,9 +11,6 @@
 - published a research paper in ethnic studies - [read it here](https://bit.ly/jpimmigration)
 - hit the 4096 tile in 2048
 
-
-### #30NitesOfCode:  [Check out my progress!](https://www.codedex.io/@jnlamores/30-nites-of-code)  
-  ![@jnlamores #30NitesOfCode](https://www.codedex.io/api/petStatus?user=jnlamores)
 <!--
 **jnlamores/jnlamores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
