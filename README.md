@@ -1,6 +1,8 @@
 ## Hey, I'm Janelle.
 
-I'm a designer with a sharp eye and high bar for craft. I shape products and experiences with intention, embracing ambiguity as part of the process. Here, I tinker with a bit of code.
+I'm a designer with a sharp eye and high bar for craft. 
+I shape products and experiences with intention, embracing ambiguity as part of the process. 
+Here, I tinker with a bit of code.
 
 ### About me
 - designer, cognitive scientist, and researcher
@@ -8,8 +10,8 @@ I'm a designer with a sharp eye and high bar for craft. I shape products and exp
 - loves tokyo cheese milk factory salt & camembert cookies
 
 ### Other Fun Facts
-- used to live in germany (I do not speak german) 🇩🇪 
-- published 2 research papers - [read it here]([https://scholar.google.com/citations?user=CxYAHX4AAAAJ&hl=en&authuser=3]
+- used to live in germany
+- published 2 research papers - [read it here][https://scholar.google.com/citations?user=CxYAHX4AAAAJ&hl=en&authuser=3]
 - hit the 4096 tile in 2048
 
 Anyways, it's nice to meet you 💌
